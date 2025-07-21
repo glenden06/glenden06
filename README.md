@@ -5,8 +5,7 @@
 ## 🔐 Objectif Professionnel
 
 Je suis à la recherche :
-- d’un **stage de 6 semaines**
-- ou d’une **alternance** (1 à 3 ans)
+- d’une **alternance** (1 à 3 ans)
 
 dans le domaine de la **cybersécurité**, afin de développer mes compétences sur le terrain et participer à des projets concrets de sécurisation des systèmes d'information.
 
